@@ -6,7 +6,7 @@
 `TODO://` Simple "Hello World" app that allows user to change the main text with another text, color, and color of the view, which also allows them to reset their entry back to main status of the app. 
 
 ### App Walk-though
-<img src="file:///Users/jeraldinemilla/Desktop/IPhone11_CodePath.gif" width=200><br>
+<img src="https://imgur.com/dpgAXhT" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
