@@ -3,12 +3,10 @@
 ## Hello_World_Jerie
 
 ### App Description
-`TODO://` Simple "Hello World" app that allows user to change the main text with another text, color, and color of the view, which also allows them to reset their entry back to main status of the app. 
+Simple "Hello World" app that allows user to change the main text with another text, color, and color of the view, which also allows them to reset their entry back to main status of the app. 
 
 ### App Walk-though
 <img src="https://imgur.com/dpgAXhT" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
